@@ -9,7 +9,7 @@
 ![CIS](https://img.shields.io/badge/CIS_Controls_v8-00A86B?style=flat-square&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-**A practitioner's implementation library for enterprise GRC frameworks — designed for security engineers, compliance professionals, and program managers building production-grade security programs.**
+**A practitioner's implementation library for enterprise GRC frameworks; designed for security engineers, compliance professionals, and program managers building production-grade security programs.**
 
 </div>
 
@@ -86,7 +86,7 @@ grc-framework-toolkit/
 
 ---
 
-## 📋 NIST CSF 2.0 — Implementation Guide (Excerpt)
+## 📋 NIST CSF 2.0 Implementation Guide (Excerpt)
 
 ### The Six Functions
 
@@ -112,7 +112,7 @@ grc-framework-toolkit/
 
 ---
 
-## 📋 ISO 27001:2022 — Gap Analysis Template (Excerpt)
+## 📋 ISO 27001:2022 Gap Analysis Template (Excerpt)
 
 ### Mandatory Clauses Assessment
 
